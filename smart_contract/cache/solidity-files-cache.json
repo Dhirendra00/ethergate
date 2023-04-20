@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/dhirendra/Desktop/project/youtube/web3/project/smart_contract/contracts/DomainNameAuthentication.sol": {
+      "lastModificationDate": 1680639750140,
+      "contentHash": "23de23648792c60d1bf135a19d96541c",
+      "sourceName": "contracts/DomainNameAuthentication.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "DomainNameAuthentication"
+      ]
+    },
+    "/Users/dhirendra/Desktop/project/youtube/web3/project/smart_contract/contracts/Transactions.sol": {
+      "lastModificationDate": 1680705270477,
+      "contentHash": "9382650f45a98d219e0da6875c0e473d",
+      "sourceName": "contracts/Transactions.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Transactions"
+      ]
+    }
+  }
+}
